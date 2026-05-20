@@ -1,4 +1,4 @@
-# Hanna Voloshyna
+# Andrey Andrenkov
 
 ## Junior Frontend Developer
 
@@ -11,10 +11,10 @@
 
 - **Phone:** +38 068 4489766  
 - **Email:** ankavoloshina@gmail.com  
-- **Telegram:** [@hannavoloshyna](https://t.me/hannavoloshyna)  
-- **LinkedIn:** [linkedin.com/in/hanna-voloshyna](https://linkedin.com/in/hanna-voloshyna)  
-- **Behance:** [behance.net/hannavoloshyna](https://behance.net/hannavoloshyna)  
-- **GitHub:** [github.com/hannavoloshyna](https://github.com/hannavoloshyna)
+- **Telegram:** [@awdawdawdadadaa](https://t.me/awdawdwadawddaw)  
+- **LinkedIn:** [linkedin.com/in/awdawdawdawwadawdad](https://linkedin.com/in/awdadawdawdawd)  
+- **Behance:** [behance.net/hawdawdawdawdwa](https://behance.net/awdawdawd)  
+- **GitHub:** [github.com/awdawdawdawdawda](https://github.com/awdawdadawda)
 
 ---
 
