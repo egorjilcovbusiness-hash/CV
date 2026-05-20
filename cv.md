@@ -34,7 +34,9 @@ I believe my ability to learn and gain new skills will lead me through this path
 
 ### Skills and Proficiency
 
-- HTML5, CSS3  
+- HTML5, CSS3
+- c++
+- javA
 - JavaScript (Basics)  
 - Git, GitHub  
 - VS Code, IntelliJ IDEA  
