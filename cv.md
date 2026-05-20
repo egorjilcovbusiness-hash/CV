@@ -10,7 +10,7 @@
 ### Contact information
 
 - **Phone:** +38 068 4489766  
-- **Email:** ankavoloshina@gmail.com  
+- **Email:** awdawdawdawdaa@gmail.com  
 - **Telegram:** [@awdawdawdadadaa](https://t.me/awdawdwadawddaw)  
 - **LinkedIn:** [linkedin.com/in/awdawdawdawwadawdad](https://linkedin.com/in/awdadawdawdawd)  
 - **Behance:** [behance.net/hawdawdawdawdwa](https://behance.net/awdawdawd)  
