@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Andrey Andreenkov - CV</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header class="header">
+        <div class="container header-container">
+            <nav class="nav">
+                <ul class="nav-list">
+                    <li class="nav-item"><a href="#profile" class="nav-link">Profile</a></li>
+                    <li class="nav-item"><a href="#contacts" class="nav-link">Contacts</a></li>
+                    <li class="nav-item"><a href="#summary" class="nav-link">Summary</a></li>
+                    <li class="nav-item"><a href="#skills" class="nav-link">Skills</a></li>
+                    <li class="nav-item"><a href="#code" class="nav-link">Code</a></li>
+                    <li class="nav-item"><a href="#courses" class="nav-link">Courses</a></li>
+                    <li class="nav-item"><a href="#education" class="nav-link">Education</a></li>
+                    <li class="nav-item"><a href="#languages" class="nav-link">Languages</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <main class="main">
+        <div class="container main-container">
+            <!-- Profile section -->
+            <section class="section section-profile" id="profile">
+                <div class="profile-wrapper">
+                    <img src="avatar.jpg" alt="Andrey Andreenkov" class="profile-photo">
+                    <h1 class="section-title">Andrey Andreenkov</h1>
+                    <h2 class="profile-subtitle">Junior Frontend Developer</h2>
+                </div>
+            </section>
+
+            <!-- Contacts section -->
+            <section class="section" id="contacts">
+                <h2 class="section-title">Contacts</h2>
+                <ul class="section-list">
+                    <li class="section-item">📞 +38 068 4489766</li>
+                    <li class="section-item">✉️ ankavoloshina@gmail.com</li>
+                    <li class="section-item">💬 Telegram: @hannavoloshyna</li>
+                    <li class="section-item">🔗 <a href="#">linkedin.com/in/andrey-andreenkov</a></li>
+                    <li class="section-item">🎨 <a href="#">behance.net/andreyandreenkov</a></li>
+                </ul>
+            </section>
+
+            <!-- Summary section -->
+            <section class="section" id="summary">
+                <h2 class="section-title">About Me</h2>
+                <p>Started as a layout designer, became Prepress Engineer in a printing house. Now learning Frontend Development while working remotely as a retoucher.</p>
+                <p>I believe my ability to learn and gain new skills will lead me through this path of becoming a proficient Frontend Developer.</p>
+            </section>
+
+            <!-- Skills section -->
+            <section class="section" id="skills">
+                <h2 class="section-title">Skills</h2>
+                <ul class="section-list skills-list">
+                    <li class="section-item skill-badge">HTML5, CSS3</li>
+                    <li class="section-item skill-badge">JavaScript Basics</li>
+                    <li class="section-item skill-badge">Git, GitHub</li>
+                    <li class="section-item skill-badge">VS Code, IntelliJ IDEA</li>
+                    <li class="section-item skill-badge">Adobe Photoshop, Illustrator, InDesign</li>
+                </ul>
+            </section>
+
+            <!-- Code example section -->
+            <section class="section" id="code">
+                <h2 class="section-title">Code Example</h2>
+                <p><strong>Peak array index (CODEWARS):</strong> Return index where left sum equals right sum.</p>
+                <pre><code>function peak(arr) {
+    for (let i = 0; i < arr.length; i++) {
+        let leftSum = arr.slice(0, i).reduce((a, b) => a + b, 0);
+        let rightSum = arr.slice(i + 1).reduce((a, b) => a + b, 0);
+        if (leftSum === rightSum) return i;
+    }
+    return -1;
+}</code></pre>
+            </section>
+
+            <!-- Courses section -->
+            <section class="section" id="courses">
+                <h2 class="section-title">Courses</h2>
+                <ul class="section-list">
+                    <li class="section-item">HTML and CSS Tutorials on w3schools (completed)</li>
+                    <li class="section-item">JavaScript Manual on learnjavascrip.ru (in progress)</li>
+                    <li class="section-item">RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)</li>
+                </ul>
+            </section>
+
+            <!-- Education section -->
+            <section class="section" id="education">
+                <h2 class="section-title">Education</h2>
+                <ul class="section-list">
+                    <li class="section-item">Self-study: Frontend Development (HTML, CSS, JavaScript, Git)</li>
+                    <li class="section-item">Prepress and DTP Engineer – on-the-job training</li>
+                    <li class="section-item">Retouching courses – advanced Photoshop techniques</li>
+                </ul>
+            </section>
+
+            <!-- Languages section -->
+            <section class="section" id="languages">
+                <h2 class="section-title">Languages</h2>
+                <ul class="section-list">
+                    <li class="section-item">English: Intermediate/Upper-intermediate (EFSET)</li>
+                    <li class="section-item">Ukrainian: Native</li>
+                </ul>
+            </section>
+        </div>
+    </main>
+
+    <footer class="footer">
+        <div class="container footer-container">
+            <p>© 2024 Andrey Andreenkov</p>
+            <a href="https://github.com/andrey-andreenkov/cv" target="_blank">GitHub Repository</a>
+        </div>
+    </footer>
+</body>
+</html>
